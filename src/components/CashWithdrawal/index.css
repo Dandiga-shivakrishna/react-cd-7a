@@ -1,0 +1,45 @@
+.app-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  background-color: #150b3e;
+  padding: 20px;
+  width: 50%;
+  font-size: 28px;
+  font-family: 'Roboto';
+  border-radius: 20px;
+}
+.heading {
+  color: #ffffff;
+}
+.round-circle {
+  background-color: #c7d2fe;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  margin-right: 10px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 80px;
+}
+.balance-style {
+  display: flex;
+  justify-content: space-between;
+}
+.circle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.heading-balance {
+  color: #585076;
+}
+.first-circle {
+  display: flex;
+  justify-content: flex-start;
+}
